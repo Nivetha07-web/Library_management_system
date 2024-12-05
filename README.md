@@ -1,1 +1,2 @@
 # Library_management_system
+This is a software application designed to manage the functions and operations of a library. It helps in automating and streamlining various tasks that would otherwise be handled manually, making the library more efficient and user-friendly for both library staff and users (students, researchers, or other patrons). The system generally includes features for managing books, users, and transactions.
